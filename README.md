@@ -1,6 +1,6 @@
 # the teamwork TP
 
-01 Nom:
+01 Nom: Jeanne Courvoisier
 01 github:
 02 Nom: Madeleine Masson
 02 github:
